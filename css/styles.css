@@ -10936,6 +10936,40 @@ hr.divider-light {
   }
 }
 
+#calendar_area ul {
+  display:inline-block;
+  text-align:left
+}
+#calendar_area li {
+  display:inline-block;
+  text-align:center
+}
+#calendar_area .cal_days li>img {
+  position:relative;
+  z-index:2
+}
+#calendar_area .cal_days .dday {
+  position:relative;
+  z-index:99}
+#calendar_area .cal_day_seled {
+  position:relative;
+  z-index:1
+}
+#calendar_area .cal_day_seled>.column1>div {
+  position:relative
+}
+#calendar_area .cal_day_seled>.column1 img { 
+  position:relative
+} #calendar_area .cal_time {
+  width:108px;
+  margin-left:-100%
+}
+#calendar_area .cal_time>span {
+  font-size:xx-small
+}
+
+
+
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
