@@ -10960,7 +10960,8 @@ hr.divider-light {
 }
 #calendar_area .cal_day_seled>.column1 img { 
   position:relative
-} #calendar_area .cal_time {
+}
+#calendar_area .cal_time {
   width:108px;
   margin-left:-100%
 }
@@ -10969,7 +10970,7 @@ hr.divider-light {
 }
 
 #calendar_area .cal_month {
-  font-size: large;
+  font-size: large
 }
 
 
