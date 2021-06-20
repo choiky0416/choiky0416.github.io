@@ -10970,6 +10970,9 @@ hr.divider-light {
 }
 
 #calendar_area .cal_month {
+  padding: 70px 25px;
+  width: 100%;
+  background: #1abc9c;
   font-size: large
 }
 
