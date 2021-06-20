@@ -10968,6 +10968,9 @@ hr.divider-light {
   font-size:xx-small
 }
 
+#calendar_area .cal_month {
+  font-size: 0.9rem;
+}
 
 
 header.masthead {
